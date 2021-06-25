@@ -6,6 +6,10 @@
   --yellow-color: #EEC584;
 }
 
+html {
+  overflow-x: hidden;
+}
+
 /* reset styles */
 body,p,a,ul,li {
   margin: 0;
