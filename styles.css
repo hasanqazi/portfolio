@@ -6,7 +6,7 @@
   --yellow-color: #EEC584;
 }
 
-html {
+.wrapper {
   overflow-x: hidden;
 }
 
